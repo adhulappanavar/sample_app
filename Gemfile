@@ -34,6 +34,7 @@ group :development, :test do
 	# Use sqlite3 as the database for Active Recor
   gem 'sqlite3'
   gem 'rspec-rails', '2.13.1'
+  gem 'guard-rspec', '2.5.0'
 end
 
 group :test do
